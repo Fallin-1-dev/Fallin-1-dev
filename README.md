@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Godwin Angel
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning front-end development
-- 💞️ I’m looking to collaborate on front-end development projects
+- 🌱 I’m currently learning front-end web development
+- 💞️ I’m looking to collaborate on front-end web development projects
 - 📫 How to reach me @devil_in_guise on twitter and Tha real Angel on facebook
 
 <!---
